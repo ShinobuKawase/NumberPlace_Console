@@ -14,6 +14,7 @@ namespace NumberPlace_Console
         int[,] matrix;
         System.Text.StringBuilder boarderLine;
 
+
         public Board()
         {
             crossCheck = false;

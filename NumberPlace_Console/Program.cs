@@ -22,7 +22,8 @@ namespace NumberPlace_Console
 			testBoard.SetNumbers(8,  0, 0, 0, 0, 0, 0, 0, 0, 0 );	
 			*/
 
-			
+
+			/*
 			testBoard.SetNumbers(0,  9, 0, 0, 3, 2, 0, 0, 7, 0 );
 			testBoard.SetNumbers(1,  0, 0, 0, 0, 0, 0, 0, 0, 0 );
 			testBoard.SetNumbers(2,  0, 0, 0, 0, 1, 0, 2, 0, 0 );
@@ -32,9 +33,9 @@ namespace NumberPlace_Console
 			testBoard.SetNumbers(6,  7, 0, 0, 0, 0, 2, 6, 3, 0 );
 			testBoard.SetNumbers(7,  0, 9, 0, 0, 0, 0, 0, 8, 0 );
 			testBoard.SetNumbers(8,  1, 0, 6, 0, 0, 7, 0, 4, 0 );	
-			
+			*/
 
-			/*
+			
 			testBoard.SetNumbers(0,  0, 0, 0, 0, 0, 0, 0, 8, 7);
 			testBoard.SetNumbers(1,  0, 0, 0, 0, 0, 0, 0, 0, 0);
 			testBoard.SetNumbers(2,  0, 0, 1, 2, 3, 0, 0, 0, 0);
@@ -44,7 +45,7 @@ namespace NumberPlace_Console
 			testBoard.SetNumbers(6,  0, 0, 0, 0, 1, 0, 3, 0, 0);
 			testBoard.SetNumbers(7,  8, 0, 0, 0, 0, 7, 0, 0, 0);
 			testBoard.SetNumbers(8,  6, 0, 0, 0, 0, 0, 0, 0, 0);
-			*/
+			
 
 			/*
 			testBoard.SetNumbers(0,  4, 0, 0, 1 );
